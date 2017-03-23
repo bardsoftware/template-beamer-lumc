@@ -23,4 +23,4 @@ Author:           Shengnan Liu (sliu729@gmail.com), Division Medical imaging pro
 License:          LaTeX Project Public License 1.3ñ
 
 Status:           added by Papeeria Team, maintenance on demand
-Last update:      17 Mar 2017 
+Last update:      23 Mar 2017 
