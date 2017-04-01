@@ -18,7 +18,6 @@ Cleaned up for further usage on 10-06-2016
 
 ===================================================
 
-Original sources: https://www.overleaf.com/latex/templates/2016-lumc-beamer-template-2-dot-0/fhnbddshvchm#.WMkg4DuLTIV
 Author:           Shengnan Liu (sliu729@gmail.com), Division Medical imaging processing, Leiden University Medical Center
 License:          LaTeX Project Public License 1.3ñ
 
