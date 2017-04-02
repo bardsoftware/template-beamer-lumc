@@ -19,7 +19,7 @@ Cleaned up for further usage on 10-06-2016
 ===================================================
 
 Author:           Shengnan Liu (sliu729@gmail.com), Division Medical imaging processing, Leiden University Medical Center
-License:          LaTeX Project Public License 1.3ñ
+License:          LaTeX Project Public License 1.3
 
 Status:           added by Papeeria Team, maintenance on demand
 Last update:      23 Mar 2017 
